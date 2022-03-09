@@ -1,776 +1,776 @@
 const dict = {
-    "-1235176720": "Monsters, Inc",
-    "1454706373": "treachery of the loathsome resistance",
-    "1946935311": "Dark Shadows",
-    "396924972": "Milhouse Van Houten",
-    "1276849111": "Blue Oak",
-    "334053954": "Alice in Wonderland",
-    "678137880": "Jak and Daxter: The Precursor Legacy",
-    "-2032017081": "Toy Story",
-    "766714912": "Childish Gambino",
-    "-625895288": "Halo: Combat Evolved Anniversary",
-    "-1273276975": "Case Closed",
-    "-1453344693": "Jean-Claude Van Damme",
-    "1430075773": "Jake Gyllenhaal",
-    "2042549487": "Aretha Franklin",
-    "1949891321": "Ra's al Ghul",
-    "-1783271277": "Facebook",
-    "-56444313": "Super Mario Bros.",
-    "789102469": "Now You See Me",
-    "-1864766391": "Katy Perry",
-    "483191348": "Food Wars!",
-    "-1493461040": "Rise of the Guardians",
-    "-17004194": "Wallace and Gromit: The Wrong Trousers",
-    "-1173331177": "Michael Jackson",
-    "530118286": "Gary",
-    "453059717": "Timbuktu",
-    "-420263651": "Men in Black",
-    "-621282972": "The Fresh Prince of Bel-Air",
-    "1476417604": "Mary Poppins",
-    "17385592": "Alyson Hannigan",
-    "-369423432": "The Walking Dead",
-    "702474566": "Erika",
-    "1301048274": "One Piece",
-    "1535053862": "Saints Row IV",
-    "-1163366362": "Veritasium",
-    "-191338039": "Path of Exile",
-    "1945421154": "Alien: Resurrection",
-    "-629955441": "Gran Torino",
-    "1346630989": "Beatrice Prior",
-    "-177654706": "Moby-Dick",
-    "-1070391440": "Westworld",
-    "1234847130": "Mojang AB",
-    "-699282881": "Day of the Tentacle",
-    "-1003179982": "Rihanna",
-    "242937448": "The Elder Scrolls V: Skyrim",
-    "874408342": "Ronaldinho",
-    "-135616176": "Scarlet Witch",
-    "-763086745": "Ice Age 2",
-    "-1298531506": "Avengers",
-    "-332740379": "Gladiator",
-    "1983376028": "Spore",
-    "122959571": "Cory",
-    "544936500": "Xena: Warrior Princess",
-    "-1268886997": "Wreck-It Ralph",
-    "1262275592": "Persona 4",
-    "-598837294": "One Punch Man",
-    "861036721": "Animal Crossing",
-    "119762574": "Harry Potter and the Prisoner of Azkaban",
-    "-1041938908": "How I Met Your Mother",
-    "917583169": "Kirarin Revolution",
-    "446904883": "Logan Paul",
-    "767297383": "Disney's DuckTales Remastered",
-    "805120884": "Batman: Arkham Origins",
-    "1463586980": "Chilling Adventures of Sabrina",
-    "-2050054539": "Soul",
-    "760105070": "Men in Black",
-    "1459806030": "Halo 3: ODST",
-    "-375276957": "Gartic Phone",
-    "-869430832": "Twice",
-    "1347932576": "Istanbul",
-    "821701549": "Zach Galifianakis",
-    "556876731": "Buffy the Vampire Slayer",
-    "-903222852": "Dead by Daylight",
-    "-1619566851": "Avengers: Infinity War",
-    "1693647658": "Mike Tyson",
-    "788324528": "Punch-Out!!",
-    "-1186216055": "The Sims 4",
-    "-196129111": "Orange Is the New Black",
-    "829553860": "Turok: Dinosaur Hunter",
-    "-929646382": "Pink Floyd",
-    "711946527": "Fall Guys: Ultimate Knockout",
-    "-1874147377": "The Hurt Locker",
-    "1961915061": "Neil deGrasse Tyson",
-    "226685847": "Pokémon Trading Card Game",
-    "-986710893": "Pope Francis",
-    "-998159249": "The Hunchback of Notre Dame",
-    "1152494293": "Age of Empires: Definitive Edition",
-    "-1645838348": "Joker",
-    "-1520677556": "Sean Paul",
-    "213009223": "Zinedine Zidane",
-    "1339252126": "TikTok",
-    "623338880": "Porco Rosso",
-    "-1702009588": "Kingdom Come: Deliverance",
-    "-1812706806": "KnightShift",
-    "1430763945": "Miley Cyrus",
-    "227067336": "Jennifer Lawrence",
-    "1771368331": "Fifty Shades of Grey",
-    "1738045429": "Byleth",
-    "-2137532028": "Lance",
-    "-1637326377": "Bleach",
-    "-1920904921": "Ben Affleck",
-    "-471788293": "Tony Hawk's Pro Skater 2",
-    "1071035251": "Mario Mario",
-    "1789377975": "Margot Robbie",
-    "-525184709": "Wiggler",
-    "-1382411262": "Sagat",
-    "39925546": "Zach King",
-    "-1757811189": "Vikings",
-    "792702606": "The Beatles",
-    "-1974741478": "Street Fighter",
-    "831930223": "Full Metal Jacket",
-    "-1688964457": "Batman Returns",
-    "-645997510": "The Lich King",
-    "-1513180217": "Lil Durk",
-    "-720905301": "The King's Speech",
-    "-206964530": "Bart Simpson",
-    "34969332": "Ratchet et Clank",
-    "-503286776": "Mike Ehrmantraut",
-    "-1791554641": "Super Castlevania IV",
-    "554239272": "Katy Perry",
-    "782580201": "Pelé",
-    "-416137939": "Ronaldo",
-    "-875885597": "Kendrick Lamar",
-    "918038448": "Taylor Swift",
-    "-454377217": "Katamari Damacy Reroll",
-    "1082404997": "Highlander",
-    "-337022327": "Avast Antivirus",
-    "1702494063": "Jurassic Park",
-    "-644014959": "Mortal Kombat 11",
-    "-18641931": "Lord Raiden",
-    "726799982": "Garry's Mod",
-    "684228049": "Amnesty International",
-    "-281867026": "The Truman Show",
-    "-138540399": "Martin Scorsese",
-    "1601291190": "Adrien Brody",
-    "951064432": "Silent Hill 2",
-    "1074130468": "The Boy and The Beast",
-    "905892068": "Mount Everest",
-    "-239439150": "The Lion King (2019)",
-    "2024192642": "Ewan McGregor",
-    "-859855135": "Batman",
-    "-1811545384": "Legends Never Die",
-    "-1399361911": "Taxi Driver",
-    "212360286": "The Sopranos",
-    "-1465300660": "The Penguin",
-    "488377147": "Lionel Messi",
-    "738709009": "Kickboxer",
-    "-57087606": "Ice Age",
-    "1822140557": "The Elder Scrolls V: Skyrim",
-    "1550054220": "Mark Rober",
-    "36813163": "Avengers: Endgame",
-    "-1753782265": "Attack on Titan",
-    "-677018561": "Destiny's Child",
-    "-1215292454": "Pitch Perfect 2",
-    "2135470236": "Halsey",
-    "-344985999": "Taylor Swift",
-    "-146947121": "Alvin and the Chipmunks",
-    "-1817560991": "Ad Astra",
-    "-20744043": "The Kid LAROI",
-    "1657859159": "Henry Cavill",
-    "-1775318450": "Dr DisRespect",
-    "1007332252": "The Godfather",
-    "1742396559": "Food Wars!",
-    "-1176897305": "Jake the Dog",
-    "1460411423": "The Walking Dead season 2",
-    "-884052048": "Fear Factor",
-    "1550294161": "Roger Moore",
-    "-1809128591": "The Mona Lisa",
-    "-1969648426": "Sum 41",
-    "-648615882": "Avengers: Endgame",
-    "-659135664": "Pokémon Detective Pikachu",
-    "-1725321140": "Spider-Man",
-    "890733596": "The Shining",
-    "-1088550443": "Animal Crossing",
-    "410556839": "Dragon Ball Z",
-    "-526260166": "Matt Damon",
-    "274553184": "Divergent",
-    "1668605206": "Joaquin Phoenix",
-    "719454170": "Metal Gear Solid 3: Snake Eater",
-    "799113516": "Steven Spielberg",
-    "-733750903": "Raven Reyes",
-    "-31739507": "Captain America: First Avenger",
-    "904730648": "Dwayne Johnson",
-    "470725458": "Cardcaptor Sakura",
-    "-749444068": "Captain Tsubasa",
-    "-1105080655": "Code Geass: Lelouch of the Rebellion",
-    "1208978300": "Petra",
-    "106138224": "Mew Mew Power",
-    "-241704375": "Izuku Midoriya",
-    "-1194109533": "Butters Stotch",
-    "-910213672": "Snowpiercer",
-    "-2131882820": "Harry Potter and the Order of the Phoenix",
-    "-378110625": "Madonna",
-    "1103960138": "Reservoir Dogs",
-    "1127539576": "Velociraptor",
-    "1421442781": "Crash Bandicoot: N. Sane Trilogy",
-    "-1763910067": "Pokémon Pinball",
-    "-714505143": "Bilbo Baggins",
-    "-1515321914": "Liu Kang",
-    "-1743763657": "Markiplier",
-    "1850114696": "Attack on Titan",
-    "-1541125248": "The Legend of Zelda: Majora's Mask",
-    "-1259500543": "Doja Cat",
-    "836077724": "The Witcher 3: Wild Hunt",
-    "1883654378": "Hamtaro",
-    "579577759": "Cave Story",
-    "1759769441": "The Punisher",
-    "603314028": "Shakira",
-    "282956878": "Princess Mononoke",
-    "-455556710": "Zack Snyder's Justice League",
-    "-2016259860": "A Hat in Time",
-    "138187963": "Spider-Man",
-    "1826690513": "Overwatch",
-    "-349751539": "The Trevi Fountain",
-    "712745634": "Emmanuel Macron",
-    "-684259734": "Street Fighter",
-    "1064808215": "On Her Majesty's Secret Service",
-    "926534247": "Princess Leia Organa",
-    "208269676": "Twitch",
-    "-2023477572": "Giovanni",
-    "684444225": "Yellowstone National Park",
-    "1594610046": "Michael Schumacher",
-    "1108297648": "Apollo Justice",
-    "1800007756": "Death Note",
-    "1735585973": "The Wolf Among Us",
-    "859447510": "Meryl Streep",
-    "-2024007716": "Cardcaptor Sakura",
-    "1662482140": "Steve Carell",
-    "1661445723": "Al Pacino",
-    "1708345169": "Ice Age",
-    "-515144844": "Happy",
-    "42635320": "Diablo",
-    "1770598437": "Doctor Strange",
-    "1346794770": "The Wolf of Wall Street",
-    "67257985": "Avatar",
-    "112033755": "Death Note",
-    "-331315447": "Marshmello",
-    "-1035702653": "Pippi Longstocking",
-    "-767058918": "The Elder Scrolls IV: Oblivion",
-    "-229979224": "Cendrillon",
-    "1380207291": "Lethal Weapon",
-    "407346527": "Phoenix",
-    "-1161736537": "Asterix",
-    "2044746970": "Spice Girls",
-    "1992479852": "Firefly",
-    "-1128660472": "Antigone",
-    "101595126": "Coraline",
-    "-1937260562": "El Camino : A Breaking Bad Movie",
-    "696897878": "Stannis Baratheon",
-    "-1754966589": "Emhyr var Emreis",
-    "-1355001870": "Tokyo Ghoul",
-    "1689367153": "Legends of Runeterra",
-    "-744955653": "One Flew Over the Cuckoo's Nest",
-    "-2124010601": "Lil Baby",
-    "-590709719": "The Legend of Zelda: The Wind Waker",
-    "-924305763": "Johnny English",
-    "2080531109": "Selena Gomez",
-    "-339787158": "The Legend of Zelda: Breath of the Wild",
-    "2030942443": "Guardians of the Galaxy Vol. 2",
-    "941406277": "Tails",
-    "1917193059": "Psy",
-    "207429307": "24kGoldn",
-    "426031061": "Stardew Valley",
-    "-1235385762": "San Francisco",
-    "-538192619": "Meek Mill",
-    "1839419384": "Monkey Island",
-    "-682790988": "Netherlands",
-    "-1258921157": "Mao Zedong",
-    "2041283850": "Gwent: The Witcher Card Game",
-    "1381489475": "The Adventures of Tom Sawyer",
-    "1692748765": "Starbound",
-    "-379211293": "Game of Thrones",
-    "1326008705": "Animal Farm",
-    "-580242365": "Alice in Wonderland",
-    "-1906904438": "Google",
-    "704673330": "American History X",
-    "114466518": "Captain Herlock",
-    "-737003398": "Rick Astley",
-    "-1905277094": "Poison Ivy",
-    "1327051768": "My Neighbor Totoro",
-    "2087642277": "Indiana Jones and the Raiders of the Lost Ark",
-    "1315876228": "Halo 5: Guardians",
-    "1273772649": "Grease",
-    "1329754335": "The jaguar",
-    "-1864044840": "Woody Allen",
-    "1909943008": "To Pimp a Butterfly",
-    "-288544985": "Guile",
-    "-1691106764": "Spelunky",
-    "-939161010": "Howl's Moving Castle",
-    "711592257": "Danny Trejo",
-    "-1101699925": "Zoro roronoa",
-    "-1201664215": "The Off-Season",
-    "-1068405611": "One Direction",
-    "1516830112": "Reservoir Dogs",
-    "209504688": "The Kid LAROI",
-    "-1156011101": "Avatar",
-    "1297443965": "Interstellar",
-    "135736471": "Greta Thunberg",
-    "992675925": "Lil Uzi Vert",
-    "-816243734": "Broforce",
-    "-1338663619": "Wolf Children",
-    "-756868460": "Kobe Bryant",
-    "2037108587": "Game Of Thrones",
-    "-1899832477": "Usual Suspects",
-    "1723982112": "Sean Connery",
-    "-795378825": "The Incredibles",
-    "2105966835": "House of Cards",
-    "408934195": "The Texas Chainsaw Massacre",
-    "1250444670": "Another",
-    "-1185498464": "Tony Parker",
-    "-615867694": "Victoria Falls",
-    "-290870242": "Fall Guys: Ultimate Knockout",
-    "807497541": "Rubeus Hagrid",
-    "1978111944": "Aquaman",
-    "1148315125": "thank u, next",
-    "-315786830": "Michael Phelps",
-    "-402516067": "Despicable Me",
-    "-537533271": "Alicia Keys",
-    "1032597327": "Tokyo Ghoul!",
-    "1623392847": "Bloons TD 6",
-    "-783939841": "JoJo's Bizarre Adventure",
-    "-2080513966": "Mars Attacks!",
-    "-1735924866": "The Lernaean Hydra",
-    "20222306": "F-Zero GX",
-    "1754583210": "Hugo Rafael Chávez Frías",
-    "1097800010": "Le Petit Prince",
-    "717761223": "Astro Boy",
-    "1319922064": "Harrison Ford",
-    "-13085295": "Brother Bear",
-    "2081015177": "Snoop Dogg",
-    "1641627857": "The 100",
-    "312516149": "Kurapika",
-    "1100477792": "House, M.D.",
-    "-1872552594": "Death Note",
-    "474108060": "Eminem",
-    "1682767494": "Fullmetal Alchemist: Brotherhood",
-    "-868993196": "The Nightmare Before Christmas",
-    "681169813": "Slipknot",
-    "-479892839": "Watchmen",
-    "1803102469": "JoJo's Bizarre Adventure",
-    "-186439436": "Bubbles",
-    "2026965126": "Moscow",
-    "-1831187457": "Psych",
-    "-2081311916": "Erased",
-    "1364372784": "The Cachalot",
-    "766755607": "Monsters, Inc",
-    "651059795": "BTS",
-    "-214450013": "Final Fantasy VII",
-    "658046186": "Rick Ross",
-    "-1270599918": "Destin Wilson Sandlin",
-    "-222471316": "John Wick 2",
-    "2067557873": "Reservoir Dogs",
-    "-1811010281": "ARK: Survival Evolved",
-    "1348844582": "M. Bison",
-    "-1785363903": "Opera",
-    "-2082628042": "Thor: Ragnarok",
-    "-1096726784": "Blur",
-    "835992564": "Alice in Wonderland",
-    "1708807621": "The Dark Knight",
-    "1102786492": "WhatsApp",
-    "1801734323": "Ethan Hawke",
-    "832381717": "Suits",
-    "1310447511": "Louise Belcher",
-    "2075796662": "Malabar",
-    "-1601379859": "Yosemite National Park",
-    "1997259648": "Mr. Freeze",
-    "1385495734": "Howl's Moving Castle",
-    "849796180": "Billie Eilish",
-    "1895508401": "Golgo 13",
-    "1949243510": "Red",
-    "-1069524697": "Mike Ehrmantraut",
-    "-1611695172": "Toy Story",
-    "-793859800": "Cendrillon",
-    "-1314808999": "Ty Dolla $ign",
-    "-129527894": "a sea of troubles",
-    "188460796": "Disenchantment",
-    "897923793": "Ratatouille",
-    "-59930786": "Jurassic Park",
-    "2129626443": "The Jungle Book",
-    "1048318709": "Frank Ocean",
-    "1516736978": "Andy Warhol",
-    "1024890436": "Vikings",
-    "2046225145": "Great Teacher Onizuka",
-    "706451979": "Ludwig van Beethoven",
-    "-1850370398": "Dr. Seuss' The Lorax",
-    "-1941603649": "Safari",
-    "-1139483261": "Dead by Daylight",
-    "1605887538": "Romeo and Juliet",
-    "-1891436083": "Cerberus",
-    "782343092": "George Clooney",
-    "-1354154631": "Her",
-    "-2083772517": "Grand Theft Auto V",
-    "-1461064007": "Homelander",
-    "-1602186870": "Lacoste",
-    "362661285": "Animal Farm",
-    "823943555": "Breaking Bad",
-    "-1383942388": "Barry Lyndon",
-    "839083758": "Shanks",
-    "-1645424656": "Pac Man",
-    "1881401194": "Jodie Foster",
-    "563928003": "Mel Gibson",
-    "-1840821345": "Eric Cartman",
-    "-1403238142": "Cersei Lannister",
-    "524863595": "Grey's Anatomy",
-    "-40218952": "J. K. Rowling",
-    "1038320019": "Green Lantern",
-    "-1262380397": "Joe Biden",
-    "-1758269449": "Mohamed Salah",
-    "1639108416": "BMW",
-    "-1015729401": "Justin Bieber",
-    "1020456300": "Lady and the Tramp",
-    "609029837": "Rambo",
-    "1590968190": "Vin Diesel",
-    "1876631736": "Crash Bash",
-    "219163193": "50 Cent",
-    "253533575": "Selena Gomez",
-    "910551372": "</SCORPION>",
-    "797496617": "Yennefer of Vengerberg",
-    "1517046144": "Grand Theft Auto III",
-    "1726528505": "The Last of Us",
-    "2061974138": "Harry Potter and the Prisoner of Azkaban",
-    "-787613402": "Richard Nixon",
-    "1722963922": "The Dark Knight",
-    "-1662645528": "Call of Duty: Ghosts",
-    "-1698518182": "Thorin II Oakenshield",
-    "1216482750": "Stardew Valley",
-    "-877965416": "Bulbasaur",
-    "-1773480872": "Tyrion Lannister",
-    "-1710604452": "The Conjuring",
-    "-610463442": "The rattlesnake",
-    "566985802": "Yeezus",
-    "-303245744": "Michael De Santa",
-    "-1687657119": "Chicken Little",
-    "1964870285": "Stan Marsh",
-    "-1141412364": "Mark Rober",
-    "862101900": "Morgan Freeman",
-    "1363223444": "Dumbo",
-    "-1399877477": "Django Unchained",
-    "1813423372": "Yoshi's Island DS",
-    "-707968395": "Shigeru Miyamoto",
-    "-315602540": "Titanfall 2",
-    "77540591": "Back to the future",
-    "1877041591": "Phoenix Wright: Ace Attorney",
-    "814943265": "Princess Mononoke",
-    "338758844": "Tom Holland",
-    "1453531545": "Gon Freecss",
-    "-984483724": "Kyle Broflovski",
-    "-460608247": "Batman Begins",
-    "700312098": "Kevin Costner",
-    "1369695005": "Zootopia",
-    "854576010": "Big Ben",
-    "1016245481": "Dark Souls III",
-    "714833413": "Nelson Mandela",
-    "177243427": "Spock",
-    "-1060238688": "Avengers: Infinity War",
-    "-1524347149": "Pablo Ruiz Picasso",
-    "832951170": "Sekiro: Shadows Die Twice",
-    "-1875767344": "The Hobbit: An Unexpected Journey",
-    "329779865": "Kristen Stewart",
-    "-1419302810": "René Descartes",
-    "1900974909": "Deus Ex",
-    "-190554123": "Sébastien Loeb",
-    "-477084054": "The Nanny",
-    "-144304868": "Django Unchained",
-    "-1269961579": "2001: A Space Odyssey",
-    "883826987": "Token Black",
-    "-1947887123": "Jackie Chan",
-    "-1228367684": "The 100",
-    "-1274096051": "Haribo",
-    "-98394829": "Sprite",
-    "-1158047316": "The Simpsons",
-    "1877861686": "Bella Poarch",
-    "-687171037": "Spirited Away",
-    "1973492965": "Russell Wilson",
-    "-147709076": "Xi Jinping",
-    "992879079": "Eric Patrick Clapton",
-    "-1907519838": "Mr. Buu",
-    "-1761757811": "Fortnite",
-    "-1478362942": "Faeria",
-    "-1929112338": "Marion Cotillard",
-    "2104243113": "The Walking Dead: The Final Season",
-    "1658707512": "Spider-Man",
-    "75195392": "Batman v Superman: Dawn of Justice",
-    "-1052132346": "Alice in Wonderland",
-    "-2021135690": "Narcos",
-    "-638972354": "Relic Hunter",
-    "392396905": "Uncharted: Drake's Fortune",
-    "1879860560": "Toy Story",
-    "-446025715": "Vikings",
-    "735839181": "Captain America: Civil War",
-    "-1456554956": "Black Panther",
-    "-650583231": "World of Warcraft: Shadowlands",
-    "1289277712": "Erwin Smith",
-    "880534870": "Argo",
-    "-300055306": "My Hero Academia",
-    "618584829": "Karl Marx",
-    "-2033818506": "Demon Slayer: Kimetsu no Yaiba",
-    "1130235602": "Rambo",
-    "-1189989151": "Far Cry 3",
-    "1596962254": "Nikola Tesla",
-    "-100615520": "Roberto Carlos da Silva Rocha",
-    "1110550566": "Avengers",
-    "-925670830": "Yeezus",
-    "966989927": "Garry's Mod",
-    "-1816077926": "Breaking Bad",
-    "1486382390": "The pelican",
-    "-931141573": "BLACKPINK",
-    "-656807479": "Plague Inc: Evolved",
-    "854011862": "The Legend of Zelda: Skyward Sword",
-    "997913936": "300",
-    "1422668628": "Jimin",
-    "1126863093": "Sex Education",
-    "-1641084745": "Saruman",
-    "-1938629997": "Clint Eastwood",
-    "293810941": "Rihanna",
-    "-1714882115": "Ragnar Lodbrok",
-    "-453625683": "Mariah Carey",
-    "1954191380": "Narcos",
-    "1033160218": "Zara Larsson",
-    "-1451149631": "Guardians of the Galaxy",
-    "-1573605505": "Wallace & Gromit",
-    "-43917268": "Pokimane",
-    "1298339011": "MontanaBlack",
-    "1483718411": "Apocalypto",
-    "311653938": "Sea Shepherd Conservation Society",
-    "-2093857151": "Dora and the Lost City of Gold",
-    "-1118015165": "Zendaya",
-    "479931736": "20th Century Women",
-    "1103596338": "Omar Little",
-    "-761481020": "Lady Di",
-    "-459105694": "Scary Movie",
-    "516863496": "Zoras",
-    "924115801": "Queen",
-    "145124171": "Cloudy with a Chance of Meatballs",
-    "352384965": "Hearthstone",
-    "-333674899": "George Orwell",
-    "1572148328": "Lara Croft",
-    "620281505": "The Sixth Sense",
-    "-1023015218": "Alexander",
-    "1983544759": "The Lion King",
-    "-429615567": "Euro Truck Simulator 2",
-    "-855437124": "Animal Crossing New Horizons",
-    "1243105413": "Sonic Mania",
-    "-764974357": "Rocket League",
-    "-626385850": "Adele",
-    "1772376327": "The Untouchables",
-    "-993277095": "Liberty Enlightening the World",
-    "-1821644988": "GoldenEye 007",
-    "-347525726": "The Pretender",
-    "-2108102763": "Jet Set Radio",
-    "386827422": "Michel Platini",
-    "-31592210": "The cougar",
-    "322656091": "300",
-    "-2022271198": "Jon Snow",
-    "804733475": "Cirilla Fiona Elen Riannon",
-    "1055747488": "Avicii",
-    "-610354773": "Jumanji",
-    "-60592820": "Michael Jackson",
-    "433678796": "Sid Meier's Civilization VI",
-    "455435604": "Lorde",
-    "-815500082": "Jurassic Park",
-    "-1631717263": "Friends",
-    "-1371406667": "Ahsoka Tano",
-    "717001442": "Jason Statham",
-    "-1321668046": "Porco Rosso",
-    "1483041009": "The Pretender",
-    "973118696": "Overlord",
-    "-2123183464": "Linkin Park",
-    "-547255365": "The Lion King",
-    "122979702": "Interstellar",
-    "-1662287356": "Juice WRLD",
-    "859582415": "Watchmen",
-    "-521193756": "Lost",
-    "1401081409": "The Grand Canyon",
-    "-1273533510": "Denzel Washington",
-    "-649998725": "Knight Rider",
-    "177447426": "Daisy",
-    "42848592": "Overcooked",
-    "1348715164": "Brandon Stark",
-    "649642799": "The Angry Birds Movie",
-    "-348031346": "Space Jam",
-    "213669353": "Kickboxer",
-    "1090449459": "Colin Farrell",
-    "973187583": "Rita Ora",
-    "-1928183583": "Zac Efron",
-    "533380317": "Team Vitality",
-    "-887329580": "Aliens",
-    "901122236": "Shakespeare in Love",
-    "287422462": "Selena Gomez",
-    "-660730779": "A Clockwork Orange",
-    "-287969409": "The Fly",
-    "954406346": "Half Life 2",
-    "-464294358": "Vincent van Gogh",
-    "1747175211": "Pretty Little Liars",
-    "2089499259": "Portal",
-    "-1562366544": "Dofus",
-    "541067487": "Pop Smoke",
-    "801784060": "Detroit: Become Human",
-    "-1575142662": "Hollow Knight",
-    "-762263017": "Dawn of the Planet of the Apes",
-    "-561923660": "Corpse Bride",
-    "-282296": "Donkey Kong",
-    "-868478690": "The Sistine Chapel",
-    "167402879": "Gmail",
-    "-844202247": "Avengers: Endgame",
-    "-140908040": "The Dark Side of the Moon",
-    "171079012": "SSX 3",
-    "-791359031": "WWF",
-    "677919022": "James Arthur",
-    "1806263656": "will.i.am",
-    "232048039": "1001 Spikes",
-    "747228784": "Squidward Tentacles",
-    "-540607315": "Hayao Miyazaki",
-    "1396955831": "Avicii",
-    "-166191525": "Colibri",
-    "-1734226931": "Star Trek The Original Series",
-    "-795131213": "Ricky Martin",
-    "-367367708": "24",
-    "-881721100": "Riverdale",
-    "-825498249": "Neon Genesis Evangelion",
-    "1916218873": "Valorant",
-    "2075213204": "Fat Joe",
-    "-19859980": "Persona 5",
-    "1123673720": "The X-Files",
-    "1308493751": "Titanic",
-    "-1451035422": "Heat",
-    "-1056608673": "Frank Underwood",
-    "-1583265012": "Star Trek Voyager",
-    "-140641336": "The Call of Cthulhu",
-    "46417597": "Pocahontas",
-    "306325019": "Charmeleon",
-    "1808544884": "Vega",
-    "-216343265": "Great Teacher Onizuka",
-    "-1311463083": "Charli D'Amelio",
-    "-1189258038": "Otacon",
-    "368289045": "10 Downing Street",
-    "-1931879789": "Golf With Your Friends",
-    "-1113207441": "Idris Elba",
-    "-303373792": "The Godfather",
-    "899255117": "Aladdin",
-    "1186318181": "John Fitzgerald Kennedy",
-    "-212180515": "Gilmore Girls",
-    "-719454845": "Batman v Superman: Dawn of Justice",
-    "-586717961": "Your Name.",
-    "381406768": "The Lion King",
-    "-156038711": "Spider-Verse",
-    "-1778259955": "Gris",
-    "1206934753": "SeaNanners",
-    "274553184": "Divergent",
-    "212360286": "The Sopranos",
-    "120626255": "Lebanon",
-    "-663868790": "The Haunting of Hill House",
-    "-337392013": "Gran Torino",
-    "1800430352": "Midona",
-    "-1758269449": "Mohamed Salah",
-    "550184212": "District",
-    "-26875961": "Atypical",
-    "1237528989": "Summer Wars",
-    "-2117557550": "Hakumei and Mikochi",
-    "-804688836": "Citrus",
-    "-37103724": "Land of the Lustrous",
-    "1874245987": "Assassination Classroom",
-    "255340620": "Alice In Borderland",
-    "1622296995": "Aiura",
-    "-510139405": "Fly Me to the Moon",
-    "1318511999": "Vampire Knight",
-    "-283833091": "Naruto",
-    "-1618844408": "Blue-Eyes White Dragon",
-    "-2081311916": "Erased",
-    "925317467": "Kakegurui – Compulsive Gambler",
-    "-2086406210": "One Piece",
-    "550665190": "A Silent Voice",
-    "-166266974": "Black Butler",
-    "-355337375": "Wonder Egg Priority",
-    "89065206": "Tamako Market",
-    "1914546355": "Dropkick On My Devil!",
-    "1488248492": "Jibanyan",
-    "749072155": "Fullmetal Alchemist: Brotherhood",
-    "1221326775": "Black Jack",
-    "-1119252564": "My Hero Academia",
-    "-215438297": "Chihayafuru",
-    "106138224": "Mew Mew Power",
-    "-1867638982": "Id:Invaded",
-    "1943669421": "JoJo's Bizarre Adventure",
-    "366754596": "Steins;Gate 0",
-    "1430087040": "Asobi Asobase",
-    "866329033": "Armored Trooper Votoms",
-    "1495034142": "Grave of the fireflies",
-    "-509320601": "JoJo's Bizarre Adventure",
-    "146108202": "Pokémon, les voyages",
-    "-608916594": "Decim",
-    "-1039004120": "Thus Spoke Rohan Kishibe",
-    "-1382158348": "Naruto",
-    "197578292": "Pocket Monsters Special",
-    "-451987104": "Kiki's Delivery Service",
-    "-1006049782": "Vegeta",
-    "-141060892": "Anne Happy♪",
-    "-1255589994": "Blue Exorcist",
-    "409445943": "Hori san to Miyamura kun",
-    "1252568443": "Charlotte",
-    "1292965798": "Aho-Girl",
-    "1601259709": "Neon Genesis Evangelion",
-    "-252511447": "Air Gear",
-    "619248213": "Spirited Away",
-    "-7839116": "Iroduku : The World in Colors",
-    "-2033464522": "Fullmetal Alchemist",
-    "-743613420": "Shugo Chara!",
-    "-241704375": "Izuku Midoriya",
-    "-1783844162": "Patema Inverted",
-    "-1608667660": "Berserk (1997)",
-    "1633896286": "BEASTARS",
-    "1525979902": "Cowboy Bebop",
-    "1882836427": "SSSS.Gridman",
-    "151026804": "Colorful",
-    "-121095562": "Love Live! School Idol Project",
-    "-718738054": "Bang Dream! Season 3",
-    "959521102": "My Neighbor Seki",
-    "-202068914": "Zombieland Saga",
-    "996672058": "Nao Tomori",
-    "1400102658": "Tsuki ga kirei",
-    "903542203": "Mirai Nikki",
-    "-229834192": "Baccano!",
-    "-715938191": "Darwin's Game",
-    "1834924721": "Pokémon",
-    "-630263711": "Sarazanmai",
-    "-1728111472": "Owarimonogatari",
-    "-400982891": "Kamichama Karin",
-    "504302124": "When They Cry",
-    "1469739426": "Chihayafuru",
-    "470725458": "Cardcaptor Sakura",
-    "1400292060": "Goodnight PunPun",
-    "2137025442": "Children of the Sea",
-    "-1229061413": "Anohana: The Flower We Saw That Day",
-    "1527633243": "Date a live",
-    "-687171037": "Spirited Away",
-    "-1194752422": "Camp buddy",
-    "-246841657": "Angel Beats!",
-    "1122458259": "Dororo To Hyakkimaru",
-    "-1414218461": "Yu-Gi-Oh! Duel Monsters",
-    "-1224564669": "Aikatsu!",
-    "741494181": "Devilman",
-    "33365063": "Gon",
-    "-524441127": "Captain Future",
-    "1613985365": "Aikatsu Stars! Hoshi no Tsubasa",
-    "1380750034": "Durarara!!",
-    "-6263711": "Pokémon : Twilight Wings",
-    "-1788982660": "Devilman: Crybaby",
-    "437573612": "Katawa Shōjo",
-    "166244987": "BANANA FISH",
-    "1780661261": "Princess Principal",
-    "-2085701241": "Nichijou",
-    "-645974403": "Dr. STONE",
-    "1976892736": "BNA : Brand New Animal",
-    "869168416": "Love Live! School Idol Project",
-    "487561062": "Doubutsu no Mori",
-    "1358863448": "Children Who Chase Lost Voices",
-    "1935640532": "Hugtto! Precure",
-    "-2090075887": "Kirarin Revolution",
-    "1138557985": "Choboraunyopomi Gekijou Ai Mai Mii",
-    "1981208832": "Teasing Master Takagi-san",
-    "1077304543": "March Comes in Like a Lion",
-    "-543638622": "Toilet Bound Hanako-kun",
-    "720857042": "Alita: Battle Angel",
-    "-1568607290": "Food Wars! The Second Plate",
-    "-939697044": "Laid-Back Camp",
-    "-313975180": "Devilman Crybaby",
-    "1902159369": "Sweetness and Lightning",
-    "-2098557167": "Sound! Euphonium",
-    "-820629367": "Fireworks",
-    "991930127": "Prison School",
-    "639758492": "My Hero Academia",
-    "39344417": "Dr. STONE",
-    "2139722115": "Perfect Blue",
+    "-1235176720": "Monsters; Inc";
+    "1454706373": "treachery of the loathsome resistance";
+    "1946935311": "Dark Shadows";
+    "396924972": "Milhouse Van Houten";
+    "1276849111": "Blue Oak";
+    "334053954": "Alice in Wonderland";
+    "678137880": "Jak and Daxter: The Precursor Legacy";
+    "-2032017081": "Toy Story";
+    "766714912": "Childish Gambino";
+    "-625895288": "Halo: Combat Evolved Anniversary";
+    "-1273276975": "Case Closed";
+    "-1453344693": "Jean-Claude Van Damme";
+    "1430075773": "Jake Gyllenhaal";
+    "2042549487": "Aretha Franklin";
+    "1949891321": "Ra's al Ghul";
+    "-1783271277": "Facebook";
+    "-56444313": "Super Mario Bros.";
+    "789102469": "Now You See Me";
+    "-1864766391": "Katy Perry";
+    "483191348": "Food Wars!";
+    "-1493461040": "Rise of the Guardians";
+    "-17004194": "Wallace and Gromit: The Wrong Trousers";
+    "-1173331177": "Michael Jackson";
+    "530118286": "Gary";
+    "453059717": "Timbuktu";
+    "-420263651": "Men in Black";
+    "-621282972": "The Fresh Prince of Bel-Air";
+    "1476417604": "Mary Poppins";
+    "17385592": "Alyson Hannigan";
+    "-369423432": "The Walking Dead";
+    "702474566": "Erika";
+    "1301048274": "One Piece";
+    "1535053862": "Saints Row IV";
+    "-1163366362": "Veritasium";
+    "-191338039": "Path of Exile";
+    "1945421154": "Alien: Resurrection";
+    "-629955441": "Gran Torino";
+    "1346630989": "Beatrice Prior";
+    "-177654706": "Moby-Dick";
+    "-1070391440": "Westworld";
+    "1234847130": "Mojang AB";
+    "-699282881": "Day of the Tentacle";
+    "-1003179982": "Rihanna";
+    "242937448": "The Elder Scrolls V: Skyrim";
+    "874408342": "Ronaldinho";
+    "-135616176": "Scarlet Witch";
+    "-763086745": "Ice Age 2";
+    "-1298531506": "Avengers";
+    "-332740379": "Gladiator";
+    "1983376028": "Spore";
+    "122959571": "Cory";
+    "544936500": "Xena: Warrior Princess";
+    "-1268886997": "Wreck-It Ralph";
+    "1262275592": "Persona 4";
+    "-598837294": "One Punch Man";
+    "861036721": "Animal Crossing";
+    "119762574": "Harry Potter and the Prisoner of Azkaban";
+    "-1041938908": "How I Met Your Mother";
+    "917583169": "Kirarin Revolution";
+    "446904883": "Logan Paul";
+    "767297383": "Disney's DuckTales Remastered";
+    "805120884": "Batman: Arkham Origins";
+    "1463586980": "Chilling Adventures of Sabrina";
+    "-2050054539": "Soul";
+    "760105070": "Men in Black";
+    "1459806030": "Halo 3: ODST";
+    "-375276957": "Gartic Phone";
+    "-869430832": "Twice";
+    "1347932576": "Istanbul";
+    "821701549": "Zach Galifianakis";
+    "556876731": "Buffy the Vampire Slayer";
+    "-903222852": "Dead by Daylight";
+    "-1619566851": "Avengers: Infinity War";
+    "1693647658": "Mike Tyson";
+    "788324528": "Punch-Out!!";
+    "-1186216055": "The Sims 4";
+    "-196129111": "Orange Is the New Black";
+    "829553860": "Turok: Dinosaur Hunter";
+    "-929646382": "Pink Floyd";
+    "711946527": "Fall Guys: Ultimate Knockout";
+    "-1874147377": "The Hurt Locker";
+    "1961915061": "Neil deGrasse Tyson";
+    "226685847": "Pokémon Trading Card Game";
+    "-986710893": "Pope Francis";
+    "-998159249": "The Hunchback of Notre Dame";
+    "1152494293": "Age of Empires: Definitive Edition";
+    "-1645838348": "Joker";
+    "-1520677556": "Sean Paul";
+    "213009223": "Zinedine Zidane";
+    "1339252126": "TikTok";
+    "623338880": "Porco Rosso";
+    "-1702009588": "Kingdom Come: Deliverance";
+    "-1812706806": "KnightShift";
+    "1430763945": "Miley Cyrus";
+    "227067336": "Jennifer Lawrence";
+    "1771368331": "Fifty Shades of Grey";
+    "1738045429": "Byleth";
+    "-2137532028": "Lance";
+    "-1637326377": "Bleach";
+    "-1920904921": "Ben Affleck";
+    "-471788293": "Tony Hawk's Pro Skater 2";
+    "1071035251": "Mario Mario";
+    "1789377975": "Margot Robbie";
+    "-525184709": "Wiggler";
+    "-1382411262": "Sagat";
+    "39925546": "Zach King";
+    "-1757811189": "Vikings";
+    "792702606": "The Beatles";
+    "-1974741478": "Street Fighter";
+    "831930223": "Full Metal Jacket";
+    "-1688964457": "Batman Returns";
+    "-645997510": "The Lich King";
+    "-1513180217": "Lil Durk";
+    "-720905301": "The King's Speech";
+    "-206964530": "Bart Simpson";
+    "34969332": "Ratchet et Clank";
+    "-503286776": "Mike Ehrmantraut";
+    "-1791554641": "Super Castlevania IV";
+    "554239272": "Katy Perry";
+    "782580201": "Pelé";
+    "-416137939": "Ronaldo";
+    "-875885597": "Kendrick Lamar";
+    "918038448": "Taylor Swift";
+    "-454377217": "Katamari Damacy Reroll";
+    "1082404997": "Highlander";
+    "-337022327": "Avast Antivirus";
+    "1702494063": "Jurassic Park";
+    "-644014959": "Mortal Kombat 11";
+    "-18641931": "Lord Raiden";
+    "726799982": "Garry's Mod";
+    "684228049": "Amnesty International";
+    "-281867026": "The Truman Show";
+    "-138540399": "Martin Scorsese";
+    "1601291190": "Adrien Brody";
+    "951064432": "Silent Hill 2";
+    "1074130468": "The Boy and The Beast";
+    "905892068": "Mount Everest";
+    "-239439150": "The Lion King (2019)";
+    "2024192642": "Ewan McGregor";
+    "-859855135": "Batman";
+    "-1811545384": "Legends Never Die";
+    "-1399361911": "Taxi Driver";
+    "212360286": "The Sopranos";
+    "-1465300660": "The Penguin";
+    "488377147": "Lionel Messi";
+    "738709009": "Kickboxer";
+    "-57087606": "Ice Age";
+    "1822140557": "The Elder Scrolls V: Skyrim";
+    "1550054220": "Mark Rober";
+    "36813163": "Avengers: Endgame";
+    "-1753782265": "Attack on Titan";
+    "-677018561": "Destiny's Child";
+    "-1215292454": "Pitch Perfect 2";
+    "2135470236": "Halsey";
+    "-344985999": "Taylor Swift";
+    "-146947121": "Alvin and the Chipmunks";
+    "-1817560991": "Ad Astra";
+    "-20744043": "The Kid LAROI";
+    "1657859159": "Henry Cavill";
+    "-1775318450": "Dr DisRespect";
+    "1007332252": "The Godfather";
+    "1742396559": "Food Wars!";
+    "-1176897305": "Jake the Dog";
+    "1460411423": "The Walking Dead season 2";
+    "-884052048": "Fear Factor";
+    "1550294161": "Roger Moore";
+    "-1809128591": "The Mona Lisa";
+    "-1969648426": "Sum 41";
+    "-648615882": "Avengers: Endgame";
+    "-659135664": "Pokémon Detective Pikachu";
+    "-1725321140": "Spider-Man";
+    "890733596": "The Shining";
+    "-1088550443": "Animal Crossing";
+    "410556839": "Dragon Ball Z";
+    "-526260166": "Matt Damon";
+    "274553184": "Divergent";
+    "1668605206": "Joaquin Phoenix";
+    "719454170": "Metal Gear Solid 3: Snake Eater";
+    "799113516": "Steven Spielberg";
+    "-733750903": "Raven Reyes";
+    "-31739507": "Captain America: First Avenger";
+    "904730648": "Dwayne Johnson";
+    "470725458": "Cardcaptor Sakura";
+    "-749444068": "Captain Tsubasa";
+    "-1105080655": "Code Geass: Lelouch of the Rebellion";
+    "1208978300": "Petra";
+    "106138224": "Mew Mew Power";
+    "-241704375": "Izuku Midoriya";
+    "-1194109533": "Butters Stotch";
+    "-910213672": "Snowpiercer";
+    "-2131882820": "Harry Potter and the Order of the Phoenix";
+    "-378110625": "Madonna";
+    "1103960138": "Reservoir Dogs";
+    "1127539576": "Velociraptor";
+    "1421442781": "Crash Bandicoot: N. Sane Trilogy";
+    "-1763910067": "Pokémon Pinball";
+    "-714505143": "Bilbo Baggins";
+    "-1515321914": "Liu Kang";
+    "-1743763657": "Markiplier";
+    "1850114696": "Attack on Titan";
+    "-1541125248": "The Legend of Zelda: Majora's Mask";
+    "-1259500543": "Doja Cat";
+    "836077724": "The Witcher 3: Wild Hunt";
+    "1883654378": "Hamtaro";
+    "579577759": "Cave Story";
+    "1759769441": "The Punisher";
+    "603314028": "Shakira";
+    "282956878": "Princess Mononoke";
+    "-455556710": "Zack Snyder's Justice League";
+    "-2016259860": "A Hat in Time";
+    "138187963": "Spider-Man";
+    "1826690513": "Overwatch";
+    "-349751539": "The Trevi Fountain";
+    "712745634": "Emmanuel Macron";
+    "-684259734": "Street Fighter";
+    "1064808215": "On Her Majesty's Secret Service";
+    "926534247": "Princess Leia Organa";
+    "208269676": "Twitch";
+    "-2023477572": "Giovanni";
+    "684444225": "Yellowstone National Park";
+    "1594610046": "Michael Schumacher";
+    "1108297648": "Apollo Justice";
+    "1800007756": "Death Note";
+    "1735585973": "The Wolf Among Us";
+    "859447510": "Meryl Streep";
+    "-2024007716": "Cardcaptor Sakura";
+    "1662482140": "Steve Carell";
+    "1661445723": "Al Pacino";
+    "1708345169": "Ice Age";
+    "-515144844": "Happy";
+    "42635320": "Diablo";
+    "1770598437": "Doctor Strange";
+    "1346794770": "The Wolf of Wall Street";
+    "67257985": "Avatar";
+    "112033755": "Death Note";
+    "-331315447": "Marshmello";
+    "-1035702653": "Pippi Longstocking";
+    "-767058918": "The Elder Scrolls IV: Oblivion";
+    "-229979224": "Cendrillon";
+    "1380207291": "Lethal Weapon";
+    "407346527": "Phoenix";
+    "-1161736537": "Asterix";
+    "2044746970": "Spice Girls";
+    "1992479852": "Firefly";
+    "-1128660472": "Antigone";
+    "101595126": "Coraline";
+    "-1937260562": "El Camino : A Breaking Bad Movie";
+    "696897878": "Stannis Baratheon";
+    "-1754966589": "Emhyr var Emreis";
+    "-1355001870": "Tokyo Ghoul";
+    "1689367153": "Legends of Runeterra";
+    "-744955653": "One Flew Over the Cuckoo's Nest";
+    "-2124010601": "Lil Baby";
+    "-590709719": "The Legend of Zelda: The Wind Waker";
+    "-924305763": "Johnny English";
+    "2080531109": "Selena Gomez";
+    "-339787158": "The Legend of Zelda: Breath of the Wild";
+    "2030942443": "Guardians of the Galaxy Vol. 2";
+    "941406277": "Tails";
+    "1917193059": "Psy";
+    "207429307": "24kGoldn";
+    "426031061": "Stardew Valley";
+    "-1235385762": "San Francisco";
+    "-538192619": "Meek Mill";
+    "1839419384": "Monkey Island";
+    "-682790988": "Netherlands";
+    "-1258921157": "Mao Zedong";
+    "2041283850": "Gwent: The Witcher Card Game";
+    "1381489475": "The Adventures of Tom Sawyer";
+    "1692748765": "Starbound";
+    "-379211293": "Game of Thrones";
+    "1326008705": "Animal Farm";
+    "-580242365": "Alice in Wonderland";
+    "-1906904438": "Google";
+    "704673330": "American History X";
+    "114466518": "Captain Herlock";
+    "-737003398": "Rick Astley";
+    "-1905277094": "Poison Ivy";
+    "1327051768": "My Neighbor Totoro";
+    "2087642277": "Indiana Jones and the Raiders of the Lost Ark";
+    "1315876228": "Halo 5: Guardians";
+    "1273772649": "Grease";
+    "1329754335": "The jaguar";
+    "-1864044840": "Woody Allen";
+    "1909943008": "To Pimp a Butterfly";
+    "-288544985": "Guile";
+    "-1691106764": "Spelunky";
+    "-939161010": "Howl's Moving Castle";
+    "711592257": "Danny Trejo";
+    "-1101699925": "Zoro roronoa";
+    "-1201664215": "The Off-Season";
+    "-1068405611": "One Direction";
+    "1516830112": "Reservoir Dogs";
+    "209504688": "The Kid LAROI";
+    "-1156011101": "Avatar";
+    "1297443965": "Interstellar";
+    "135736471": "Greta Thunberg";
+    "992675925": "Lil Uzi Vert";
+    "-816243734": "Broforce";
+    "-1338663619": "Wolf Children";
+    "-756868460": "Kobe Bryant";
+    "2037108587": "Game Of Thrones";
+    "-1899832477": "Usual Suspects";
+    "1723982112": "Sean Connery";
+    "-795378825": "The Incredibles";
+    "2105966835": "House of Cards";
+    "408934195": "The Texas Chainsaw Massacre";
+    "1250444670": "Another";
+    "-1185498464": "Tony Parker";
+    "-615867694": "Victoria Falls";
+    "-290870242": "Fall Guys: Ultimate Knockout";
+    "807497541": "Rubeus Hagrid";
+    "1978111944": "Aquaman";
+    "1148315125": "thank u; next";
+    "-315786830": "Michael Phelps";
+    "-402516067": "Despicable Me";
+    "-537533271": "Alicia Keys";
+    "1032597327": "Tokyo Ghoul!";
+    "1623392847": "Bloons TD 6";
+    "-783939841": "JoJo's Bizarre Adventure";
+    "-2080513966": "Mars Attacks!";
+    "-1735924866": "The Lernaean Hydra";
+    "20222306": "F-Zero GX";
+    "1754583210": "Hugo Rafael Chávez Frías";
+    "1097800010": "Le Petit Prince";
+    "717761223": "Astro Boy";
+    "1319922064": "Harrison Ford";
+    "-13085295": "Brother Bear";
+    "2081015177": "Snoop Dogg";
+    "1641627857": "The 100";
+    "312516149": "Kurapika";
+    "1100477792": "House; M.D.";
+    "-1872552594": "Death Note";
+    "474108060": "Eminem";
+    "1682767494": "Fullmetal Alchemist: Brotherhood";
+    "-868993196": "The Nightmare Before Christmas";
+    "681169813": "Slipknot";
+    "-479892839": "Watchmen";
+    "1803102469": "JoJo's Bizarre Adventure";
+    "-186439436": "Bubbles";
+    "2026965126": "Moscow";
+    "-1831187457": "Psych";
+    "-2081311916": "Erased";
+    "1364372784": "The Cachalot";
+    "766755607": "Monsters; Inc";
+    "651059795": "BTS";
+    "-214450013": "Final Fantasy VII";
+    "658046186": "Rick Ross";
+    "-1270599918": "Destin Wilson Sandlin";
+    "-222471316": "John Wick 2";
+    "2067557873": "Reservoir Dogs";
+    "-1811010281": "ARK: Survival Evolved";
+    "1348844582": "M. Bison";
+    "-1785363903": "Opera";
+    "-2082628042": "Thor: Ragnarok";
+    "-1096726784": "Blur";
+    "835992564": "Alice in Wonderland";
+    "1708807621": "The Dark Knight";
+    "1102786492": "WhatsApp";
+    "1801734323": "Ethan Hawke";
+    "832381717": "Suits";
+    "1310447511": "Louise Belcher";
+    "2075796662": "Malabar";
+    "-1601379859": "Yosemite National Park";
+    "1997259648": "Mr. Freeze";
+    "1385495734": "Howl's Moving Castle";
+    "849796180": "Billie Eilish";
+    "1895508401": "Golgo 13";
+    "1949243510": "Red";
+    "-1069524697": "Mike Ehrmantraut";
+    "-1611695172": "Toy Story";
+    "-793859800": "Cendrillon";
+    "-1314808999": "Ty Dolla $ign";
+    "-129527894": "a sea of troubles";
+    "188460796": "Disenchantment";
+    "897923793": "Ratatouille";
+    "-59930786": "Jurassic Park";
+    "2129626443": "The Jungle Book";
+    "1048318709": "Frank Ocean";
+    "1516736978": "Andy Warhol";
+    "1024890436": "Vikings";
+    "2046225145": "Great Teacher Onizuka";
+    "706451979": "Ludwig van Beethoven";
+    "-1850370398": "Dr. Seuss' The Lorax";
+    "-1941603649": "Safari";
+    "-1139483261": "Dead by Daylight";
+    "1605887538": "Romeo and Juliet";
+    "-1891436083": "Cerberus";
+    "782343092": "George Clooney";
+    "-1354154631": "Her";
+    "-2083772517": "Grand Theft Auto V";
+    "-1461064007": "Homelander";
+    "-1602186870": "Lacoste";
+    "362661285": "Animal Farm";
+    "823943555": "Breaking Bad";
+    "-1383942388": "Barry Lyndon";
+    "839083758": "Shanks";
+    "-1645424656": "Pac Man";
+    "1881401194": "Jodie Foster";
+    "563928003": "Mel Gibson";
+    "-1840821345": "Eric Cartman";
+    "-1403238142": "Cersei Lannister";
+    "524863595": "Grey's Anatomy";
+    "-40218952": "J. K. Rowling";
+    "1038320019": "Green Lantern";
+    "-1262380397": "Joe Biden";
+    "-1758269449": "Mohamed Salah";
+    "1639108416": "BMW";
+    "-1015729401": "Justin Bieber";
+    "1020456300": "Lady and the Tramp";
+    "609029837": "Rambo";
+    "1590968190": "Vin Diesel";
+    "1876631736": "Crash Bash";
+    "219163193": "50 Cent";
+    "253533575": "Selena Gomez";
+    "910551372": "</SCORPION>";
+    "797496617": "Yennefer of Vengerberg";
+    "1517046144": "Grand Theft Auto III";
+    "1726528505": "The Last of Us";
+    "2061974138": "Harry Potter and the Prisoner of Azkaban";
+    "-787613402": "Richard Nixon";
+    "1722963922": "The Dark Knight";
+    "-1662645528": "Call of Duty: Ghosts";
+    "-1698518182": "Thorin II Oakenshield";
+    "1216482750": "Stardew Valley";
+    "-877965416": "Bulbasaur";
+    "-1773480872": "Tyrion Lannister";
+    "-1710604452": "The Conjuring";
+    "-610463442": "The rattlesnake";
+    "566985802": "Yeezus";
+    "-303245744": "Michael De Santa";
+    "-1687657119": "Chicken Little";
+    "1964870285": "Stan Marsh";
+    "-1141412364": "Mark Rober";
+    "862101900": "Morgan Freeman";
+    "1363223444": "Dumbo";
+    "-1399877477": "Django Unchained";
+    "1813423372": "Yoshi's Island DS";
+    "-707968395": "Shigeru Miyamoto";
+    "-315602540": "Titanfall 2";
+    "77540591": "Back to the future";
+    "1877041591": "Phoenix Wright: Ace Attorney";
+    "814943265": "Princess Mononoke";
+    "338758844": "Tom Holland";
+    "1453531545": "Gon Freecss";
+    "-984483724": "Kyle Broflovski";
+    "-460608247": "Batman Begins";
+    "700312098": "Kevin Costner";
+    "1369695005": "Zootopia";
+    "854576010": "Big Ben";
+    "1016245481": "Dark Souls III";
+    "714833413": "Nelson Mandela";
+    "177243427": "Spock";
+    "-1060238688": "Avengers: Infinity War";
+    "-1524347149": "Pablo Ruiz Picasso";
+    "832951170": "Sekiro: Shadows Die Twice";
+    "-1875767344": "The Hobbit: An Unexpected Journey";
+    "329779865": "Kristen Stewart";
+    "-1419302810": "René Descartes";
+    "1900974909": "Deus Ex";
+    "-190554123": "Sébastien Loeb";
+    "-477084054": "The Nanny";
+    "-144304868": "Django Unchained";
+    "-1269961579": "2001: A Space Odyssey";
+    "883826987": "Token Black";
+    "-1947887123": "Jackie Chan";
+    "-1228367684": "The 100";
+    "-1274096051": "Haribo";
+    "-98394829": "Sprite";
+    "-1158047316": "The Simpsons";
+    "1877861686": "Bella Poarch";
+    "-687171037": "Spirited Away";
+    "1973492965": "Russell Wilson";
+    "-147709076": "Xi Jinping";
+    "992879079": "Eric Patrick Clapton";
+    "-1907519838": "Mr. Buu";
+    "-1761757811": "Fortnite";
+    "-1478362942": "Faeria";
+    "-1929112338": "Marion Cotillard";
+    "2104243113": "The Walking Dead: The Final Season";
+    "1658707512": "Spider-Man";
+    "75195392": "Batman v Superman: Dawn of Justice";
+    "-1052132346": "Alice in Wonderland";
+    "-2021135690": "Narcos";
+    "-638972354": "Relic Hunter";
+    "392396905": "Uncharted: Drake's Fortune";
+    "1879860560": "Toy Story";
+    "-446025715": "Vikings";
+    "735839181": "Captain America: Civil War";
+    "-1456554956": "Black Panther";
+    "-650583231": "World of Warcraft: Shadowlands";
+    "1289277712": "Erwin Smith";
+    "880534870": "Argo";
+    "-300055306": "My Hero Academia";
+    "618584829": "Karl Marx";
+    "-2033818506": "Demon Slayer: Kimetsu no Yaiba";
+    "1130235602": "Rambo";
+    "-1189989151": "Far Cry 3";
+    "1596962254": "Nikola Tesla";
+    "-100615520": "Roberto Carlos da Silva Rocha";
+    "1110550566": "Avengers";
+    "-925670830": "Yeezus";
+    "966989927": "Garry's Mod";
+    "-1816077926": "Breaking Bad";
+    "1486382390": "The pelican";
+    "-931141573": "BLACKPINK";
+    "-656807479": "Plague Inc: Evolved";
+    "854011862": "The Legend of Zelda: Skyward Sword";
+    "997913936": "300";
+    "1422668628": "Jimin";
+    "1126863093": "Sex Education";
+    "-1641084745": "Saruman";
+    "-1938629997": "Clint Eastwood";
+    "293810941": "Rihanna";
+    "-1714882115": "Ragnar Lodbrok";
+    "-453625683": "Mariah Carey";
+    "1954191380": "Narcos";
+    "1033160218": "Zara Larsson";
+    "-1451149631": "Guardians of the Galaxy";
+    "-1573605505": "Wallace & Gromit";
+    "-43917268": "Pokimane";
+    "1298339011": "MontanaBlack";
+    "1483718411": "Apocalypto";
+    "311653938": "Sea Shepherd Conservation Society";
+    "-2093857151": "Dora and the Lost City of Gold";
+    "-1118015165": "Zendaya";
+    "479931736": "20th Century Women";
+    "1103596338": "Omar Little";
+    "-761481020": "Lady Di";
+    "-459105694": "Scary Movie";
+    "516863496": "Zoras";
+    "924115801": "Queen";
+    "145124171": "Cloudy with a Chance of Meatballs";
+    "352384965": "Hearthstone";
+    "-333674899": "George Orwell";
+    "1572148328": "Lara Croft";
+    "620281505": "The Sixth Sense";
+    "-1023015218": "Alexander";
+    "1983544759": "The Lion King";
+    "-429615567": "Euro Truck Simulator 2";
+    "-855437124": "Animal Crossing New Horizons";
+    "1243105413": "Sonic Mania";
+    "-764974357": "Rocket League";
+    "-626385850": "Adele";
+    "1772376327": "The Untouchables";
+    "-993277095": "Liberty Enlightening the World";
+    "-1821644988": "GoldenEye 007";
+    "-347525726": "The Pretender";
+    "-2108102763": "Jet Set Radio";
+    "386827422": "Michel Platini";
+    "-31592210": "The cougar";
+    "322656091": "300";
+    "-2022271198": "Jon Snow";
+    "804733475": "Cirilla Fiona Elen Riannon";
+    "1055747488": "Avicii";
+    "-610354773": "Jumanji";
+    "-60592820": "Michael Jackson";
+    "433678796": "Sid Meier's Civilization VI";
+    "455435604": "Lorde";
+    "-815500082": "Jurassic Park";
+    "-1631717263": "Friends";
+    "-1371406667": "Ahsoka Tano";
+    "717001442": "Jason Statham";
+    "-1321668046": "Porco Rosso";
+    "1483041009": "The Pretender";
+    "973118696": "Overlord";
+    "-2123183464": "Linkin Park";
+    "-547255365": "The Lion King";
+    "122979702": "Interstellar";
+    "-1662287356": "Juice WRLD";
+    "859582415": "Watchmen";
+    "-521193756": "Lost";
+    "1401081409": "The Grand Canyon";
+    "-1273533510": "Denzel Washington";
+    "-649998725": "Knight Rider";
+    "177447426": "Daisy";
+    "42848592": "Overcooked";
+    "1348715164": "Brandon Stark";
+    "649642799": "The Angry Birds Movie";
+    "-348031346": "Space Jam";
+    "213669353": "Kickboxer";
+    "1090449459": "Colin Farrell";
+    "973187583": "Rita Ora";
+    "-1928183583": "Zac Efron";
+    "533380317": "Team Vitality";
+    "-887329580": "Aliens";
+    "901122236": "Shakespeare in Love";
+    "287422462": "Selena Gomez";
+    "-660730779": "A Clockwork Orange";
+    "-287969409": "The Fly";
+    "954406346": "Half Life 2";
+    "-464294358": "Vincent van Gogh";
+    "1747175211": "Pretty Little Liars";
+    "2089499259": "Portal";
+    "-1562366544": "Dofus";
+    "541067487": "Pop Smoke";
+    "801784060": "Detroit: Become Human";
+    "-1575142662": "Hollow Knight";
+    "-762263017": "Dawn of the Planet of the Apes";
+    "-561923660": "Corpse Bride";
+    "-282296": "Donkey Kong";
+    "-868478690": "The Sistine Chapel";
+    "167402879": "Gmail";
+    "-844202247": "Avengers: Endgame";
+    "-140908040": "The Dark Side of the Moon";
+    "171079012": "SSX 3";
+    "-791359031": "WWF";
+    "677919022": "James Arthur";
+    "1806263656": "will.i.am";
+    "232048039": "1001 Spikes";
+    "747228784": "Squidward Tentacles";
+    "-540607315": "Hayao Miyazaki";
+    "1396955831": "Avicii";
+    "-166191525": "Colibri";
+    "-1734226931": "Star Trek The Original Series";
+    "-795131213": "Ricky Martin";
+    "-367367708": "24";
+    "-881721100": "Riverdale";
+    "-825498249": "Neon Genesis Evangelion";
+    "1916218873": "Valorant";
+    "2075213204": "Fat Joe";
+    "-19859980": "Persona 5";
+    "1123673720": "The X-Files";
+    "1308493751": "Titanic";
+    "-1451035422": "Heat";
+    "-1056608673": "Frank Underwood";
+    "-1583265012": "Star Trek Voyager";
+    "-140641336": "The Call of Cthulhu";
+    "46417597": "Pocahontas";
+    "306325019": "Charmeleon";
+    "1808544884": "Vega";
+    "-216343265": "Great Teacher Onizuka";
+    "-1311463083": "Charli D'Amelio";
+    "-1189258038": "Otacon";
+    "368289045": "10 Downing Street";
+    "-1931879789": "Golf With Your Friends";
+    "-1113207441": "Idris Elba";
+    "-303373792": "The Godfather";
+    "899255117": "Aladdin";
+    "1186318181": "John Fitzgerald Kennedy";
+    "-212180515": "Gilmore Girls";
+    "-719454845": "Batman v Superman: Dawn of Justice";
+    "-586717961": "Your Name.";
+    "381406768": "The Lion King";
+    "-156038711": "Spider-Verse";
+    "-1778259955": "Gris";
+    "1206934753": "SeaNanners";
+    "274553184": "Divergent";
+    "212360286": "The Sopranos";
+    "120626255": "Lebanon";
+    "-663868790": "The Haunting of Hill House";
+    "-337392013": "Gran Torino";
+    "1800430352": "Midona";
+    "-1758269449": "Mohamed Salah";
+    "550184212": "District";
+    "-26875961": "Atypical";
+    "1237528989": "Summer Wars";
+    "-2117557550": "Hakumei and Mikochi";
+    "-804688836": "Citrus";
+    "-37103724": "Land of the Lustrous";
+    "1874245987": "Assassination Classroom";
+    "255340620": "Alice In Borderland";
+    "1622296995": "Aiura";
+    "-510139405": "Fly Me to the Moon";
+    "1318511999": "Vampire Knight";
+    "-283833091": "Naruto";
+    "-1618844408": "Blue-Eyes White Dragon";
+    "-2081311916": "Erased";
+    "925317467": "Kakegurui – Compulsive Gambler";
+    "-2086406210": "One Piece";
+    "550665190": "A Silent Voice";
+    "-166266974": "Black Butler";
+    "-355337375": "Wonder Egg Priority";
+    "89065206": "Tamako Market";
+    "1914546355": "Dropkick On My Devil!";
+    "1488248492": "Jibanyan";
+    "749072155": "Fullmetal Alchemist: Brotherhood";
+    "1221326775": "Black Jack";
+    "-1119252564": "My Hero Academia";
+    "-215438297": "Chihayafuru";
+    "106138224": "Mew Mew Power";
+    "-1867638982": "Id:Invaded";
+    "1943669421": "JoJo's Bizarre Adventure";
+    "366754596": "Steins;Gate 0";
+    "1430087040": "Asobi Asobase";
+    "866329033": "Armored Trooper Votoms";
+    "1495034142": "Grave of the fireflies";
+    "-509320601": "JoJo's Bizarre Adventure";
+    "146108202": "Pokémon; les voyages";
+    "-608916594": "Decim";
+    "-1039004120": "Thus Spoke Rohan Kishibe";
+    "-1382158348": "Naruto";
+    "197578292": "Pocket Monsters Special";
+    "-451987104": "Kiki's Delivery Service";
+    "-1006049782": "Vegeta";
+    "-141060892": "Anne Happy♪";
+    "-1255589994": "Blue Exorcist";
+    "409445943": "Hori san to Miyamura kun";
+    "1252568443": "Charlotte";
+    "1292965798": "Aho-Girl";
+    "1601259709": "Neon Genesis Evangelion";
+    "-252511447": "Air Gear";
+    "619248213": "Spirited Away";
+    "-7839116": "Iroduku : The World in Colors";
+    "-2033464522": "Fullmetal Alchemist";
+    "-743613420": "Shugo Chara!";
+    "-241704375": "Izuku Midoriya";
+    "-1783844162": "Patema Inverted";
+    "-1608667660": "Berserk (1997)";
+    "1633896286": "BEASTARS";
+    "1525979902": "Cowboy Bebop";
+    "1882836427": "SSSS.Gridman";
+    "151026804": "Colorful";
+    "-121095562": "Love Live! School Idol Project";
+    "-718738054": "Bang Dream! Season 3";
+    "959521102": "My Neighbor Seki";
+    "-202068914": "Zombieland Saga";
+    "996672058": "Nao Tomori";
+    "1400102658": "Tsuki ga kirei";
+    "903542203": "Mirai Nikki";
+    "-229834192": "Baccano!";
+    "-715938191": "Darwin's Game";
+    "1834924721": "Pokémon";
+    "-630263711": "Sarazanmai";
+    "-1728111472": "Owarimonogatari";
+    "-400982891": "Kamichama Karin";
+    "504302124": "When They Cry";
+    "1469739426": "Chihayafuru";
+    "470725458": "Cardcaptor Sakura";
+    "1400292060": "Goodnight PunPun";
+    "2137025442": "Children of the Sea";
+    "-1229061413": "Anohana: The Flower We Saw That Day";
+    "1527633243": "Date a live";
+    "-687171037": "Spirited Away";
+    "-1194752422": "Camp buddy";
+    "-246841657": "Angel Beats!";
+    "1122458259": "Dororo To Hyakkimaru";
+    "-1414218461": "Yu-Gi-Oh! Duel Monsters";
+    "-1224564669": "Aikatsu!";
+    "741494181": "Devilman";
+    "33365063": "Gon";
+    "-524441127": "Captain Future";
+    "1613985365": "Aikatsu Stars! Hoshi no Tsubasa";
+    "1380750034": "Durarara!!";
+    "-6263711": "Pokémon : Twilight Wings";
+    "-1788982660": "Devilman: Crybaby";
+    "437573612": "Katawa Shōjo";
+    "166244987": "BANANA FISH";
+    "1780661261": "Princess Principal";
+    "-2085701241": "Nichijou";
+    "-645974403": "Dr. STONE";
+    "1976892736": "BNA : Brand New Animal";
+    "869168416": "Love Live! School Idol Project";
+    "487561062": "Doubutsu no Mori";
+    "1358863448": "Children Who Chase Lost Voices";
+    "1935640532": "Hugtto! Precure";
+    "-2090075887": "Kirarin Revolution";
+    "1138557985": "Choboraunyopomi Gekijou Ai Mai Mii";
+    "1981208832": "Teasing Master Takagi-san";
+    "1077304543": "March Comes in Like a Lion";
+    "-543638622": "Toilet Bound Hanako-kun";
+    "720857042": "Alita: Battle Angel";
+    "-1568607290": "Food Wars! The Second Plate";
+    "-939697044": "Laid-Back Camp";
+    "-313975180": "Devilman Crybaby";
+    "1902159369": "Sweetness and Lightning";
+    "-2098557167": "Sound! Euphonium";
+    "-820629367": "Fireworks";
+    "991930127": "Prison School";
+    "639758492": "My Hero Academia";
+    "39344417": "Dr. STONE";
+    "2139722115": "Perfect Blue";
     "1191006020": "Soul Blade";
     "1370523947": "Trippie Redd";
     "215857778": "Radovid V";
@@ -833,14 +833,14 @@ const dict = {
     "-60592820": "Michael Jackson";
     "-1706974101": "Godzilla";
     "469458764": "The sentinel";
-    "1115623376": "Monsters, Inc";
+    "1115623376": "Monsters; Inc";
     "1230236913": "Justin Bieber";
     "918624391": "Mahatma Gandhi";
     "1822140557": "The Elder Scrolls V: Skyrim";
     "1633133609": "Hytale";
     "349482272": "Queen";
     "1921618931": "Antigone";
-    "-884036354": "Monsters, Inc";
+    "-884036354": "Monsters; Inc";
     "1746413899": "Alice in Wonderland";
     "-359013590": "Dishonored";
     "988536825": "Roberto Carlos da Silva Rocha";
@@ -863,7 +863,7 @@ const dict = {
     "-1767998420": "Pokémon Detective Pikachu";
     "-896972140": "A Plague Tale: Innocence";
     "-657668637": "Justin Bieber";
-    "-1767998420": "Honey, I Shrunk the Kids";
+    "-1767998420": "Honey; I Shrunk the Kids";
     "1787992123": "Romeo and Juliet";
     "-1316640592": "Grand Theft Auto V";
     "-1756478800": "Yo-Kai Watch";
@@ -884,7 +884,7 @@ const dict = {
     "1467221939": "The Black Eyed Peas";
     "-1320171622": "Aquaman";
     "-2044096906": "Doctor Strange";
-    "-228989938": "When We All Fall Asleep, Where Do We Go?";
+    "-228989938": "When We All Fall Asleep; Where Do We Go?";
     "-1991032421": "The Pussycat Dolls";
     "-580242365": "Alice in Wonderland";
     "1752120453": "Cars";
@@ -1245,7 +1245,7 @@ const dict = {
     "892457568": "The Mask";
     "-1950650068": "Green Arrow";
     "2089694039": "Christopher Nolan";
-    "2098063714": "thank u, next";
+    "2098063714": "thank u; next";
     "680513601": "Westworld";
     "732423663": "J. Cole";
     "-608431448": "The Last of Us";
@@ -1427,7 +1427,7 @@ const dict = {
     "1174651123": "Angkor Wat";
     "-20602244": "Toadette";
     "-207629365": "Kendrick Lamar";
-    "-1628690308": "The Good, the Bad and the Ugly";
+    "-1628690308": "The Good; the Bad and the Ugly";
     "578034178": "Plants vs Zombies";
     "388468452": "Yoshi's Island DS";
     "-1759002973": "The Witcher 3: Wild Hunt";
